@@ -13,7 +13,7 @@ list_of_files=[
 "setup.py",
 "research/trials.ipynb",
 "app.py"
-]
+]   
 
 for filepath in list_of_files:
     filepath = Path(filepath)
